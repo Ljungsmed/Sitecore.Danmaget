@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <Site Server="SitecoreDanmagnet" UserName="sitecore\admin" IsRemoteSitecore="True" />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="layouts\DanMagnet\DMMainLayout.aspx" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+      <Item DatabaseName="master">{8AA4EA91-0DD8-4FDA-AD80-F014A0F4B1F5}</Item>
+    </File>
+    <File Include="layouts\DanMagnet\DMMainLayout.aspx.cs" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
+    <File Include="layouts\DanMagnet\DMMainLayout.aspx.designer.cs" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
+    <File Include="layouts\DanMagnet\DMOneColBanner.ascx" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+      <Item DatabaseName="master">{95818497-9406-4FB6-BD40-D2F7071B4C1A}</Item>
+    </File>
+    <File Include="layouts\DanMagnet\DMOneColBanner.ascx.cs" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
+    <File Include="layouts\DanMagnet\DMOneColBanner.ascx.designer.cs" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
+    <File Include="layouts\DanMagnet\DMTwoCol.ascx" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+      <Item DatabaseName="master">{032407BC-B565-4058-8175-8EB768314645}</Item>
+    </File>
+    <File Include="layouts\DanMagnet\DMTwoCol.ascx.cs" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
+    <File Include="layouts\DanMagnet\DMTwoCol.ascx.designer.cs" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0" />
+    <File Include="xsl\DanMagnet\DMBanner.xslt" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+      <Item DatabaseName="master">{921A849E-CD89-4306-B093-E2B22F39F117}</Item>
+    </File>
+    <File Include="xsl\DanMagnet\DMTopMenu.xslt" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+      <Item DatabaseName="master">{9D0AE1B6-DAF0-47C7-90ED-C0811C239A9B}</Item>
+    </File>
+  </ItemGroup>
+</Project>
